@@ -1,4 +1,4 @@
-# ASIC-Binary-Phase-Shift-Key-BPSK-Decoder
+# ASIC-Binary-Phase-Shift-Key-Decoder
 
 Project Overview
 
